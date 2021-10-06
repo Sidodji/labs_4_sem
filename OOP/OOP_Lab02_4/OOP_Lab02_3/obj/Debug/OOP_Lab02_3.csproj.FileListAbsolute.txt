@@ -1,0 +1,66 @@
+D:\Лабы\OOP_Lab02_3\OOP_Lab02_3\bin\Debug\OOP_Lab02_3.exe.config
+D:\Лабы\OOP_Lab02_3\OOP_Lab02_3\bin\Debug\OOP_Lab02_3.exe
+D:\Лабы\OOP_Lab02_3\OOP_Lab02_3\bin\Debug\OOP_Lab02_3.pdb
+D:\Лабы\OOP_Lab02_3\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.csprojAssemblyReference.cache
+D:\Лабы\OOP_Lab02_3\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.MainForm.resources
+D:\Лабы\OOP_Lab02_3\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.Properties.Resources.resources
+D:\Лабы\OOP_Lab02_3\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.SearchForm.resources
+D:\Лабы\OOP_Lab02_3\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.csproj.GenerateResource.cache
+D:\Лабы\OOP_Lab02_3\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.csproj.CoreCompileInputs.cache
+D:\Лабы\OOP_Lab02_3\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.exe
+D:\Лабы\OOP_Lab02_3\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.pdb
+D:\Лабы\OOP_Lab02_3.1 — копия\OOP_Lab02_3\bin\Debug\OOP_Lab02_3.exe.config
+D:\Лабы\OOP_Lab02_3.1 — копия\OOP_Lab02_3\bin\Debug\OOP_Lab02_3.exe
+D:\Лабы\OOP_Lab02_3.1 — копия\OOP_Lab02_3\bin\Debug\OOP_Lab02_3.pdb
+D:\Лабы\OOP_Lab02_3.1 — копия\OOP_Lab02_3\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Лабы\OOP_Lab02_3.1 — копия\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.csprojAssemblyReference.cache
+D:\Лабы\OOP_Lab02_3.1 — копия\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.MainForm.resources
+D:\Лабы\OOP_Lab02_3.1 — копия\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.Properties.Resources.resources
+D:\Лабы\OOP_Lab02_3.1 — копия\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.SearchForm.resources
+D:\Лабы\OOP_Lab02_3.1 — копия\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.csproj.GenerateResource.cache
+D:\Лабы\OOP_Lab02_3.1 — копия\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.csproj.CoreCompileInputs.cache
+D:\Лабы\OOP_Lab02_3.1 — копия\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.csproj.CopyComplete
+D:\Лабы\OOP_Lab02_3.1 — копия\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.exe
+D:\Лабы\OOP_Lab02_3.1 — копия\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.pdb
+D:\Лабы\OOP_Lab02_3.1\OOP_Lab02_3\bin\Debug\OOP_Lab02_3.exe.config
+D:\Лабы\OOP_Lab02_3.1\OOP_Lab02_3\bin\Debug\OOP_Lab02_3.exe
+D:\Лабы\OOP_Lab02_3.1\OOP_Lab02_3\bin\Debug\OOP_Lab02_3.pdb
+D:\Лабы\OOP_Lab02_3.1\OOP_Lab02_3\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Лабы\OOP_Lab02_3.1\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.csprojAssemblyReference.cache
+D:\Лабы\OOP_Lab02_3.1\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.MainForm.resources
+D:\Лабы\OOP_Lab02_3.1\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.Properties.Resources.resources
+D:\Лабы\OOP_Lab02_3.1\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.SearchForm.resources
+D:\Лабы\OOP_Lab02_3.1\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.csproj.GenerateResource.cache
+D:\Лабы\OOP_Lab02_3.1\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.csproj.CoreCompileInputs.cache
+D:\Лабы\OOP_Lab02_3.1\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.csproj.CopyComplete
+D:\Лабы\OOP_Lab02_3.1\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.exe
+D:\Лабы\OOP_Lab02_3.1\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.pdb
+D:\Лабы\OOP_Lab02_3.1\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.PatternForm.resources
+E:\Work\Programing\C#\OOP_Lab02_3.1\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.csprojAssemblyReference.cache
+E:\Work\Programing\C#\OOP_Lab02_3.1\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.MainForm.resources
+E:\Work\Programing\C#\OOP_Lab02_3.1\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.PatternForm.resources
+E:\Work\Programing\C#\OOP_Lab02_3.1\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.Properties.Resources.resources
+E:\Work\Programing\C#\OOP_Lab02_3.1\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.SearchForm.resources
+E:\Work\Programing\C#\OOP_Lab02_3.1\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.csproj.GenerateResource.cache
+E:\Work\Programing\C#\OOP_Lab02_3.1\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.csproj.CoreCompileInputs.cache
+E:\Work\Programing\C#\OOP_Lab02_3.1\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.exe
+E:\Work\Programing\C#\OOP_Lab02_3.1\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.pdb
+E:\Work\Programing\C#\OOP_Lab02_3.1\OOP_Lab02_3\bin\Debug\OOP_Lab02_3.exe.config
+E:\Work\Programing\C#\OOP_Lab02_3.1\OOP_Lab02_3\bin\Debug\OOP_Lab02_3.exe
+E:\Work\Programing\C#\OOP_Lab02_3.1\OOP_Lab02_3\bin\Debug\OOP_Lab02_3.pdb
+E:\Work\Programing\C#\OOP_Lab02_3.1\OOP_Lab02_3\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Work\Programing\C#\OOP_Lab02_3.1\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.csproj.CopyComplete
+D:\Лабы\ООП\OOP_Lab02_4\OOP_Lab02_3\bin\Debug\OOP_Lab02_3.exe.config
+D:\Лабы\ООП\OOP_Lab02_4\OOP_Lab02_3\bin\Debug\OOP_Lab02_3.exe
+D:\Лабы\ООП\OOP_Lab02_4\OOP_Lab02_3\bin\Debug\OOP_Lab02_3.pdb
+D:\Лабы\ООП\OOP_Lab02_4\OOP_Lab02_3\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Лабы\ООП\OOP_Lab02_4\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.csprojAssemblyReference.cache
+D:\Лабы\ООП\OOP_Lab02_4\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.MainForm.resources
+D:\Лабы\ООП\OOP_Lab02_4\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.PatternForm.resources
+D:\Лабы\ООП\OOP_Lab02_4\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.Properties.Resources.resources
+D:\Лабы\ООП\OOP_Lab02_4\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.SearchForm.resources
+D:\Лабы\ООП\OOP_Lab02_4\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.csproj.GenerateResource.cache
+D:\Лабы\ООП\OOP_Lab02_4\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.csproj.CoreCompileInputs.cache
+D:\Лабы\ООП\OOP_Lab02_4\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.csproj.CopyComplete
+D:\Лабы\ООП\OOP_Lab02_4\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.exe
+D:\Лабы\ООП\OOP_Lab02_4\OOP_Lab02_3\obj\Debug\OOP_Lab02_3.pdb

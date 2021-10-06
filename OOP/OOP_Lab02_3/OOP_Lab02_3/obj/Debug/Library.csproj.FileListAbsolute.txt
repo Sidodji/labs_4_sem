@@ -1,0 +1,10 @@
+D:\Лабы\ООП\OOP_Lab02_3\OOP_Lab02_3\bin\Debug\Library.exe.config
+D:\Лабы\ООП\OOP_Lab02_3\OOP_Lab02_3\bin\Debug\Library.exe
+D:\Лабы\ООП\OOP_Lab02_3\OOP_Lab02_3\bin\Debug\Library.pdb
+D:\Лабы\ООП\OOP_Lab02_3\OOP_Lab02_3\obj\Debug\Library.csprojAssemblyReference.cache
+D:\Лабы\ООП\OOP_Lab02_3\OOP_Lab02_3\obj\Debug\Library.MainForm.resources
+D:\Лабы\ООП\OOP_Lab02_3\OOP_Lab02_3\obj\Debug\Library.Properties.Resources.resources
+D:\Лабы\ООП\OOP_Lab02_3\OOP_Lab02_3\obj\Debug\Library.csproj.GenerateResource.cache
+D:\Лабы\ООП\OOP_Lab02_3\OOP_Lab02_3\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\Лабы\ООП\OOP_Lab02_3\OOP_Lab02_3\obj\Debug\Library.exe
+D:\Лабы\ООП\OOP_Lab02_3\OOP_Lab02_3\obj\Debug\Library.pdb

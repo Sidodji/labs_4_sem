@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<ArrayOfComp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Comp>
+    <TypeComp>Рабочая станция</TypeComp>
+    <Processor>
+      <Producer>qwert</Producer>
+      <Series>asdfg</Series>
+      <Model>zxcvb</Model>
+      <CountOfCores>1</CountOfCores>
+      <Frequency>2</Frequency>
+      <MaxFrequency>3</MaxFrequency>
+      <BitArchitecture>32</BitArchitecture>
+      <Cache1>8</Cache1>
+      <Cache2>1</Cache2>
+      <Cache3>2</Cache3>
+    </Processor>
+    <GraphicCard>
+      <Producer>rtyui</Producer>
+      <Series>fghjk</Series>
+      <Model>vbnm</Model>
+      <Frequency>5</Frequency>
+      <DiretX11>true</DiretX11>
+      <Memory>5</Memory>
+    </GraphicCard>
+    <SizeOZY>29</SizeOZY>
+    <TypeOZY>SIMM</TypeOZY>
+    <SizeHD>5</SizeHD>
+    <TypeHD>HDD</TypeHD>
+    <PDate>07-03-2021</PDate>
+    <Cost>695</Cost>
+  </Comp>
+</ArrayOfComp>

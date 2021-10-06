@@ -1,0 +1,100 @@
+﻿<Window x:Class="VinylShop.SecondaryWindows.EditCurrentRecord"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VinylShop.SecondaryWindows"
+        mc:Ignorable="d"
+        Title="EditCurrentRecord" Height="650" Width="350" d:DesignHeight="634.4">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Styles/AppDictionary.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid Cursor="/Resources/cursor.cur">
+        <StackPanel Name="AddRecord_stackPanel">
+            <Grid x:Name="AddRecord_grid">
+                <!--#region Grid definition-->
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="2.5*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+                <!--#endregion-->
+
+                <Label Grid.Column="0" Grid.Row="0" Content="{DynamicResource Name_MW}" Style="{StaticResource AddRecordTextBlock}" Margin="10,7,0,7.4"/>
+                <TextBox x:Name="NameInput_textBox" Grid.Column="1" Grid.Row="0" Style="{StaticResource InputRecordDataTextBox}" 
+                                     Text="{Binding Path=Name}"/>
+
+                <Label Grid.Column="0" Grid.Row="1" Content="{DynamicResource Artist_MW}" Style="{StaticResource AddRecordTextBlock}" Margin="10,6.6,0,7.8"/>
+                <TextBox x:Name="ArtistNameInput_textBox"  Grid.Column="1" Grid.Row="1" Style="{StaticResource InputRecordDataTextBox}"
+                                     Text="{Binding Path=Artist}"/>
+
+                <Label Grid.Column="0" Grid.Row="2" Content="{DynamicResource Jenre_MW}" Style="{StaticResource AddRecordTextBlock}" Margin="10,6.2,0,8.2"/>
+                <TextBox x:Name="JenreInput_textBox" Grid.Column="1" Grid.Row="2" Style="{StaticResource InputRecordDataTextBox}"
+                                     Text="{Binding Path=Jenre}"/>
+
+                <Label Grid.Column="0" Grid.Row="3" Content="{DynamicResource Label_MW}" Style="{StaticResource AddRecordTextBlock}" Margin="10,5.8,0,8.6"/>
+                <TextBox x:Name="LableNameInput_textBox" Grid.Column="1" Grid.Row="3" Style="{StaticResource InputRecordDataTextBox}"
+                                     Text="{Binding Path=Lable}"/>
+
+                <Label Grid.Column="0" Grid.Row="4" Content="{DynamicResource Country_MW}" Style="{StaticResource AddRecordTextBlock}" Margin="10,6.4,0,7.6"/>
+                <TextBox x:Name="CountyNameInput_textBox" Grid.Column="1" Grid.Row="4" Style="{StaticResource InputRecordDataTextBox}"
+                                     Text="{Binding Path=Country}"/>
+
+                <!--TODO: Fix Input data with only minutes-->
+                <Label Grid.Column="0" Grid.Row="5" Content="{DynamicResource Duration_MW}" Style="{StaticResource AddRecordTextBlock}" Margin="10,6.4,0,7.6"/>
+                <TextBox x:Name="LengthInput_textBox" Grid.Column="1" Grid.Row="5" Style="{StaticResource InputRecordDataTextBox}"
+                                     Text="{Binding Path=Duration, StringFormat='{}{h:m:ss}'}"/>
+
+                <Label Grid.Column="0" Grid.Row="6" Content="{DynamicResource Rating_MW}" Style="{StaticResource AddRecordTextBlock}" Margin="10,13.4,0,13.8"/>
+                <DockPanel Grid.Column="1" Grid.Row="6" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="0, 10" Width="180">
+                    <TextBox Width="20" Text="{Binding Path=Value, UpdateSourceTrigger=PropertyChanged, ElementName=slValue}" Margin="0, 0, 10, 0"/>
+                    <Slider Name="slValue" Value="{Binding Path=Rating}" TickPlacement="BottomRight" TickFrequency="1" IsSnapToTickEnabled="True" Maximum="10"/>
+                </DockPanel>
+
+                <Label Grid.Column="0" Grid.Row="7" Content="{DynamicResource Description_MW}" VerticalAlignment="Top" Margin="10,9.2,0,0" Style="{StaticResource AddRecordTextBlock}"/>
+                <TextBox Grid.Column="1" Grid.Row="7" x:Name="DesriptionInput_textBox" Text="{Binding Path=Description}" Style="{StaticResource InputRecordDataTextBox}"
+                                     Height="60" AcceptsReturn="True"/>
+
+                <Label Grid.Column="0" Grid.Row="8" Content="{DynamicResource Price_MW}" Style="{StaticResource AddRecordTextBlock}" Margin="10,6.2,0,7.8"/>
+                <TextBox x:Name="PriceInput_textBox" Grid.Column="1" Grid.Row="8" Style="{StaticResource InputRecordDataTextBox}"
+                                     Text="{Binding Path=Price}" Grid.ColumnSpan="2" Margin="0,5.2,0,4.8"/>
+
+                <Label Grid.Column="0" Grid.Row="9" Content="{DynamicResource ReleaseDate_MW}" Style="{StaticResource AddRecordTextBlock}" Margin="10,9.2,0,9.2"/>
+                <DatePicker x:Name="ReleaseDate_datePricker" Grid.Column="1" Grid.Row="9" Style="{StaticResource InputRecordDataTextBox}" Height="24"
+                                        SelectedDate="{Binding Path=ReleaseDate}" Grid.ColumnSpan="2" Margin="0,5.2"></DatePicker>
+
+                <Label Grid.Column="0" Grid.Row="10" Content="{DynamicResource Quantity_MW}" Style="{StaticResource AddRecordTextBlock}" Margin="10,6.8,0,7.2"/>
+                <TextBox Grid.Column="1" Grid.Row="10" Style="{StaticResource InputRecordDataTextBox}"
+                                     Text="{Binding Path=Quantity}" Grid.ColumnSpan="2"/>
+
+                <Label Grid.Column="0" Grid.Row="11" Content="{DynamicResource Price_MW}" VerticalAlignment="Top" Margin="10, 5" Style="{StaticResource AddRecordTextBlock}"/>
+                <StackPanel Grid.Column="1" Grid.Row="11" Width="180" HorizontalAlignment="Left">
+                    <Button x:Name="LoadImage_button" Width="100" HorizontalAlignment="Left"
+                                    Style="{StaticResource InputRecordDataTextBox}" Content="{DynamicResource LoadImage_MW}" Click="LoadImage_button_Click"/>
+                    <TextBox x:Name="ImagePath_textBox" Text="{Binding Path=ImagePath}" IsReadOnly="True" Style="{StaticResource InputRecordDataTextBox}"/>
+                </StackPanel>
+
+                <Button x:Name="SaveChanges_Button"  Grid.Column="0" Grid.Row="12" Content="{DynamicResource SaveChangesButton_ECR}" Margin="10" Click="SaveChanges_Button_Click"/>
+
+            </Grid>
+        </StackPanel>
+    </Grid>
+</Window>

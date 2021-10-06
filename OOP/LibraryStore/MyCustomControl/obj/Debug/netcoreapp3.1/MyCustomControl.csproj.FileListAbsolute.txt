@@ -1,0 +1,14 @@
+D:\Лабы\ООП\LibraryStore\MyCustomControl\bin\Debug\netcoreapp3.1\MyCustomControl.deps.json
+D:\Лабы\ООП\LibraryStore\MyCustomControl\bin\Debug\netcoreapp3.1\MyCustomControl.dll
+D:\Лабы\ООП\LibraryStore\MyCustomControl\bin\Debug\netcoreapp3.1\MyCustomControl.pdb
+D:\Лабы\ООП\LibraryStore\MyCustomControl\obj\Debug\netcoreapp3.1\MyCustomControl.csprojAssemblyReference.cache
+D:\Лабы\ООП\LibraryStore\MyCustomControl\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+D:\Лабы\ООП\LibraryStore\MyCustomControl\obj\Debug\netcoreapp3.1\MyCustomControl_MarkupCompile.cache
+D:\Лабы\ООП\LibraryStore\MyCustomControl\obj\Debug\netcoreapp3.1\MyCustomControl_MarkupCompile.lref
+D:\Лабы\ООП\LibraryStore\MyCustomControl\obj\Debug\netcoreapp3.1\Themes\Generic.baml
+D:\Лабы\ООП\LibraryStore\MyCustomControl\obj\Debug\netcoreapp3.1\MyCustomControl.g.resources
+D:\Лабы\ООП\LibraryStore\MyCustomControl\obj\Debug\netcoreapp3.1\MyCustomControl.AssemblyInfoInputs.cache
+D:\Лабы\ООП\LibraryStore\MyCustomControl\obj\Debug\netcoreapp3.1\MyCustomControl.AssemblyInfo.cs
+D:\Лабы\ООП\LibraryStore\MyCustomControl\obj\Debug\netcoreapp3.1\MyCustomControl.csproj.CoreCompileInputs.cache
+D:\Лабы\ООП\LibraryStore\MyCustomControl\obj\Debug\netcoreapp3.1\MyCustomControl.dll
+D:\Лабы\ООП\LibraryStore\MyCustomControl\obj\Debug\netcoreapp3.1\MyCustomControl.pdb

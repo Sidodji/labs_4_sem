@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище lab_13_ConsultationsModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Lecturers">
+    <Key>
+      <PropertyRef Name="SNP" />
+    </Key>
+    <Property Name="SNP" Type="nvarchar" MaxLength="60" Nullable="false" />
+    <Property Name="Subject" Type="nvarchar" MaxLength="50" />
+    <Property Name="ConsultDateTime" Type="datetime" />
+    <Property Name="StudNum" Type="int" />
+  </EntityType>
+  <EntityContainer Name="Хранилище lab_13_ConsultationsModelContainer">
+    <EntitySet Name="Lecturers" EntityType="Self.Lecturers" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

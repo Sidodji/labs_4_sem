@@ -1,0 +1,57 @@
+﻿<Window x:Class="lab_13.View.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab_13.View"
+        mc:Ignorable="d"
+        Title="Lab13" Height="500" Width="300">
+    
+    <Grid ShowGridLines="False">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.10*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="0.10*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Text="Курсы по дисциплинам" Foreground="Chocolate" FontSize="25" Background="Aqua" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <ListView Grid.ColumnSpan="2" IsSynchronizedWithCurrentItem="True" Grid.Column="0" Grid.Row="1" ItemsSource="{Binding Courses}"
+                 SelectedItem="{Binding SelectedCourse}">
+
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Margin="5" Height="100" Width="auto">
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+                            <TextBlock Grid.Row="0" Grid.Column="0" Text="Лектор: " />
+                            <TextBlock  Grid.Row="0" Grid.Column="1" Text="{Binding Path=Lector}" FontWeight="Bold" />
+                            <TextBlock  Grid.Row="1" Grid.Column="0" Text="Курс: "/>
+                            <TextBlock  Grid.Row="1" Grid.Column="1" Text="{Binding Path=NameCourse}" FontWeight="Bold" />
+                            <TextBlock  Grid.Row="2" Grid.Column="0" Text="Кол.часов: "/>
+                            <TextBlock  Grid.Row="2" Grid.Column="1" Text="{Binding Path=CountHour}" FontWeight="Bold" />
+                            <TextBlock Grid.Row="3" Grid.Column="0" Text="Всего записей: " />
+                            <TextBlock Grid.Row="3" Grid.Column="1" Text="{Binding Path=StudNum, Mode=TwoWay}" FontWeight="Bold" Margin="10,0"/>
+                            <TextBlock Grid.Row="4" Grid.Column="0" Text="Всего мест: " />
+                            <TextBlock Grid.Row="4" Grid.Column="1" Text="{Binding Path=MaxStudNum}" FontWeight="Bold" Margin="10,0"/>
+                        </Grid>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Button Background="BlanchedAlmond" Grid.Row="2" Grid.Column="0" Content="Запись на курс" Command="{Binding RecordingCommand}" Margin="5" />
+        <Button Background="BlanchedAlmond" Grid.Row="2" Grid.Column="1" Content="Отмена записи" Command="{Binding CancelCommand}" Margin="5" />
+    </Grid>
+</Window>

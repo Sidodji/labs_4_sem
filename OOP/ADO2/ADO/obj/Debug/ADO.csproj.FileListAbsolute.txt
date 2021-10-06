@@ -1,0 +1,60 @@
+D:\PROGRA_2kurs\ООТП-2\ADO\ADO\ADO\obj\Debug\ADO.csprojAssemblyReference.cache
+D:\PROGRA_2kurs\ООТП-2\ADO\ADO\ADO\obj\Debug\MainWindow.g.cs
+D:\PROGRA_2kurs\ООТП-2\ADO\ADO\ADO\obj\Debug\App.g.cs
+D:\PROGRA_2kurs\ООТП-2\ADO\ADO\ADO\obj\Debug\ADO_MarkupCompile.cache
+D:\PROGRA_2kurs\ООТП-2\ADO\ADO\ADO\obj\Debug\ADO_MarkupCompile.lref
+D:\PROGRA_2kurs\ООТП-2\ADO\ADO\ADO\obj\Debug\MainWindow.baml
+D:\PROGRA_2kurs\ООТП-2\ADO\ADO\ADO\obj\Debug\ADO.g.resources
+D:\PROGRA_2kurs\ООТП-2\ADO\ADO\ADO\obj\Debug\ADO.Properties.Resources.resources
+D:\PROGRA_2kurs\ООТП-2\ADO\ADO\ADO\obj\Debug\ADO.csproj.GenerateResource.cache
+D:\PROGRA_2kurs\ООТП-2\ADO\ADO\ADO\obj\Debug\ADO.csproj.CoreCompileInputs.cache
+D:\PROGRA_2kurs\ООТП-2\ADO\ADO\ADO\obj\Debug\ADO.exe
+D:\PROGRA_2kurs\ООТП-2\ADO\ADO\ADO\obj\Debug\ADO.pdb
+D:\PROGRA_2kurs\ООТП-2\ADO\ADO\ADO\bin\Debug\ADO.exe.config
+D:\PROGRA_2kurs\ООТП-2\ADO\ADO\ADO\bin\Debug\ADO.exe
+D:\PROGRA_2kurs\ООТП-2\ADO\ADO\ADO\bin\Debug\ADO.pdb
+D:\PROGRA_2kurs\ООТП-2\ADO\ADO2\ADO\bin\Debug\ADO.exe.config
+D:\PROGRA_2kurs\ООТП-2\ADO\ADO2\ADO\bin\Debug\ADO.exe
+D:\PROGRA_2kurs\ООТП-2\ADO\ADO2\ADO\bin\Debug\ADO.pdb
+D:\PROGRA_2kurs\ООТП-2\ADO\ADO2\ADO\obj\Debug\ADO.csprojAssemblyReference.cache
+D:\PROGRA_2kurs\ООТП-2\ADO\ADO2\ADO\obj\Debug\MainWindow.g.cs
+D:\PROGRA_2kurs\ООТП-2\ADO\ADO2\ADO\obj\Debug\App.g.cs
+D:\PROGRA_2kurs\ООТП-2\ADO\ADO2\ADO\obj\Debug\ADO_MarkupCompile.cache
+D:\PROGRA_2kurs\ООТП-2\ADO\ADO2\ADO\obj\Debug\ADO_MarkupCompile.lref
+D:\PROGRA_2kurs\ООТП-2\ADO\ADO2\ADO\obj\Debug\MainWindow.baml
+D:\PROGRA_2kurs\ООТП-2\ADO\ADO2\ADO\obj\Debug\ADO.g.resources
+D:\PROGRA_2kurs\ООТП-2\ADO\ADO2\ADO\obj\Debug\ADO.Properties.Resources.resources
+D:\PROGRA_2kurs\ООТП-2\ADO\ADO2\ADO\obj\Debug\ADO.csproj.GenerateResource.cache
+D:\PROGRA_2kurs\ООТП-2\ADO\ADO2\ADO\obj\Debug\ADO.csproj.CoreCompileInputs.cache
+D:\PROGRA_2kurs\ООТП-2\ADO\ADO2\ADO\obj\Debug\ADO.exe
+D:\PROGRA_2kurs\ООТП-2\ADO\ADO2\ADO\obj\Debug\ADO.pdb
+C:\Users\Lenovo PC\Desktop\ADO2\ADO\bin\Debug\ADO.exe.config
+C:\Users\Lenovo PC\Desktop\ADO2\ADO\bin\Debug\ADO.exe
+C:\Users\Lenovo PC\Desktop\ADO2\ADO\bin\Debug\ADO.pdb
+C:\Users\Lenovo PC\Desktop\ADO2\ADO\obj\Debug\ADO.csprojAssemblyReference.cache
+C:\Users\Lenovo PC\Desktop\ADO2\ADO\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo PC\Desktop\ADO2\ADO\obj\Debug\App.g.cs
+C:\Users\Lenovo PC\Desktop\ADO2\ADO\obj\Debug\ADO_MarkupCompile.cache
+C:\Users\Lenovo PC\Desktop\ADO2\ADO\obj\Debug\ADO_MarkupCompile.lref
+C:\Users\Lenovo PC\Desktop\ADO2\ADO\obj\Debug\MainWindow.baml
+C:\Users\Lenovo PC\Desktop\ADO2\ADO\obj\Debug\ADO.g.resources
+C:\Users\Lenovo PC\Desktop\ADO2\ADO\obj\Debug\ADO.Properties.Resources.resources
+C:\Users\Lenovo PC\Desktop\ADO2\ADO\obj\Debug\ADO.csproj.GenerateResource.cache
+C:\Users\Lenovo PC\Desktop\ADO2\ADO\obj\Debug\ADO.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo PC\Desktop\ADO2\ADO\obj\Debug\ADO.exe
+C:\Users\Lenovo PC\Desktop\ADO2\ADO\obj\Debug\ADO.pdb
+D:\Лабы\ADO2\ADO\bin\Debug\ADO.exe.config
+D:\Лабы\ADO2\ADO\bin\Debug\ADO.exe
+D:\Лабы\ADO2\ADO\bin\Debug\ADO.pdb
+D:\Лабы\ADO2\ADO\obj\Debug\ADO.csprojAssemblyReference.cache
+D:\Лабы\ADO2\ADO\obj\Debug\MainWindow.g.cs
+D:\Лабы\ADO2\ADO\obj\Debug\App.g.cs
+D:\Лабы\ADO2\ADO\obj\Debug\ADO_MarkupCompile.cache
+D:\Лабы\ADO2\ADO\obj\Debug\ADO_MarkupCompile.lref
+D:\Лабы\ADO2\ADO\obj\Debug\MainWindow.baml
+D:\Лабы\ADO2\ADO\obj\Debug\ADO.g.resources
+D:\Лабы\ADO2\ADO\obj\Debug\ADO.Properties.Resources.resources
+D:\Лабы\ADO2\ADO\obj\Debug\ADO.csproj.GenerateResource.cache
+D:\Лабы\ADO2\ADO\obj\Debug\ADO.csproj.CoreCompileInputs.cache
+D:\Лабы\ADO2\ADO\obj\Debug\ADO.exe
+D:\Лабы\ADO2\ADO\obj\Debug\ADO.pdb

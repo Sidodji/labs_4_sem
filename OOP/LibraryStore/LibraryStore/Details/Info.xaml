@@ -1,0 +1,87 @@
+﻿<Window x:Class="LibraryStore.Details.Info"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LibraryStore.Book"
+        mc:Ignorable="d"
+        Title="Info" Height="500" Width="600" MinWidth="400" MaxWidth="800" MinHeight="300" MaxHeight="700">
+    <Window.DataContext>
+        <local:BookStore/>
+    </Window.DataContext>
+    <Window.Resources>
+        <Style x:Key="ShowGridLines_Style">
+            <Setter Property="Grid.ShowGridLines" Value="False"/>
+        </Style>
+
+        <Style x:Key="LinkButton" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <TextBlock TextDecorations="Underline">
+                <ContentPresenter /></TextBlock>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Foreground" Value="Blue" />
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="true">
+                    <Setter Property="Foreground" Value="Red" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Grid x:Name="mainGrid" Style="{StaticResource ShowGridLines_Style}" Background="Beige">
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.2*"></RowDefinition>
+            <RowDefinition Height="2.2*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="0.5*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Style="{StaticResource ShowGridLines_Style}" >
+            <Menu>
+                <Button x:Name="EditCurrentlyBook_button_button" Content="{DynamicResource EditButton_RI}"  FontSize="15" HorizontalAlignment="Right" Style="{StaticResource LinkButton}" Click="EditCurrentlyBook_button"/>
+            </Menu>
+        </Grid>
+        <Grid Grid.Row="1" Style="{StaticResource ShowGridLines_Style}">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="4*"></ColumnDefinition>
+                <ColumnDefinition Width="2*"></ColumnDefinition>
+                <ColumnDefinition Width="2*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Border BorderBrush="DodgerBlue" BorderThickness="5" Margin="5" CornerRadius="25" >
+                <Border.Background>
+                    <ImageBrush x:Name="RecordImage_image" ImageSource="{Binding Path=ImagePath}"/>
+                </Border.Background>
+            </Border>
+            
+            <StackPanel Grid.Column="1" x:Name="BookInfo_stackPanel_1">
+                
+                <Label x:Name="LabelTitleInfo" FontSize="18" HorizontalAlignment="Center" Content="{DynamicResource Title_MW}" />
+                <Label x:Name="LabelAuthorInfo" FontSize="18" HorizontalAlignment="Center" Content="{DynamicResource Author_MW}" />
+                <Label x:Name="LabelJenreInfo" FontSize="18" HorizontalAlignment="Center" Content="{DynamicResource Jenre_MW}" />
+                <Label x:Name="LabelPagesInfo" FontSize="18" HorizontalAlignment="Center" Content="{DynamicResource Pages_MW}" />
+                <Label x:Name="LabelPublisherInfo" FontSize="18" HorizontalAlignment="Center" Content="{DynamicResource Publisher_MW}" />
+                
+            </StackPanel>
+            <StackPanel Grid.Column="2" x:Name="BookInfo_stackPanel_2">
+                <!--<TextBlock Text="Edit" Margin="0,10,20, 0" FontSize="15" HorizontalAlignment="Right"></TextBlock>-->
+                <TextBlock Text="{Binding Path=Title}" FontSize="18" HorizontalAlignment="Left" Margin="0, 5, 0 ,5"/>
+                <TextBlock Text="{Binding Path=Author}" FontSize="18" HorizontalAlignment="Left" Margin="0, 5, 0, 5"/>
+                <TextBlock Text="{Binding Path=Jenre}" FontSize="18" HorizontalAlignment="Left" Margin="0, 5, 0, 5"/>
+                <TextBlock Text="{Binding Path=Pages}" FontSize="18" HorizontalAlignment="Left" Margin="0, 5, 0, 5"/>
+                <TextBlock Text="{Binding Path=Publisher}" FontSize="18" HorizontalAlignment="Left" Margin="0, 5, 0, 5"/>
+            </StackPanel>
+        </Grid>
+        <StackPanel Grid.Row="2" Background="Aqua">
+            <Label x:Name="LabelDiscriptionInfo" FontSize="24" HorizontalAlignment="left" Margin="10,0" Content="{DynamicResource Description_MW}" />
+            <TextBlock Text="{Binding Path=Description}" FontSize="15" HorizontalAlignment="Left" Margin="10, 0"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="3" x:Name="OtherBookInfo_stackPanel" Background="BurlyWood">
+            <TextBlock Text="{Binding Path=Price, StringFormat='Price: {0:}'}" FontSize="15" HorizontalAlignment="Left" Margin="10, 5"/>
+            <TextBlock Text="{Binding Path=Quantity, StringFormat='Quantity: {0:}'}" FontSize="15" HorizontalAlignment="Left" Margin="10, 5"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,39 @@
+C:\Users\ПК\Desktop\ЛР 6-7\VinylShop\Lab8CustomControlLib\bin\Debug\Lab8CustomControlLib.dll
+C:\Users\ПК\Desktop\ЛР 6-7\VinylShop\Lab8CustomControlLib\bin\Debug\Lab8CustomControlLib.pdb
+C:\Users\ПК\Desktop\ЛР 6-7\VinylShop\Lab8CustomControlLib\obj\Debug\Lab8CustomControlLib.csprojAssemblyReference.cache
+C:\Users\ПК\Desktop\ЛР 6-7\VinylShop\Lab8CustomControlLib\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ПК\Desktop\ЛР 6-7\VinylShop\Lab8CustomControlLib\obj\Debug\Lab8CustomControlLib_MarkupCompile.cache
+C:\Users\ПК\Desktop\ЛР 6-7\VinylShop\Lab8CustomControlLib\obj\Debug\Lab8CustomControlLib_MarkupCompile.lref
+C:\Users\ПК\Desktop\ЛР 6-7\VinylShop\Lab8CustomControlLib\obj\Debug\Themes\Generic.baml
+C:\Users\ПК\Desktop\ЛР 6-7\VinylShop\Lab8CustomControlLib\obj\Debug\Lab8CustomControlLib.g.resources
+C:\Users\ПК\Desktop\ЛР 6-7\VinylShop\Lab8CustomControlLib\obj\Debug\Lab8CustomControlLib.Properties.Resources.resources
+C:\Users\ПК\Desktop\ЛР 6-7\VinylShop\Lab8CustomControlLib\obj\Debug\Lab8CustomControlLib.csproj.GenerateResource.cache
+C:\Users\ПК\Desktop\ЛР 6-7\VinylShop\Lab8CustomControlLib\obj\Debug\Lab8CustomControlLib.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\ЛР 6-7\VinylShop\Lab8CustomControlLib\obj\Debug\Lab8CustomControlLib.dll
+C:\Users\ПК\Desktop\ЛР 6-7\VinylShop\Lab8CustomControlLib\obj\Debug\Lab8CustomControlLib.pdb
+C:\Users\ПК\Desktop\1\VinylShop\Lab8CustomControlLib\bin\Debug\Lab8CustomControlLib.dll
+C:\Users\ПК\Desktop\1\VinylShop\Lab8CustomControlLib\bin\Debug\Lab8CustomControlLib.pdb
+C:\Users\ПК\Desktop\1\VinylShop\Lab8CustomControlLib\obj\Debug\Lab8CustomControlLib.csprojAssemblyReference.cache
+C:\Users\ПК\Desktop\1\VinylShop\Lab8CustomControlLib\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ПК\Desktop\1\VinylShop\Lab8CustomControlLib\obj\Debug\Lab8CustomControlLib_MarkupCompile.cache
+C:\Users\ПК\Desktop\1\VinylShop\Lab8CustomControlLib\obj\Debug\Lab8CustomControlLib_MarkupCompile.lref
+C:\Users\ПК\Desktop\1\VinylShop\Lab8CustomControlLib\obj\Debug\Themes\Generic.baml
+C:\Users\ПК\Desktop\1\VinylShop\Lab8CustomControlLib\obj\Debug\Lab8CustomControlLib.g.resources
+C:\Users\ПК\Desktop\1\VinylShop\Lab8CustomControlLib\obj\Debug\Lab8CustomControlLib.Properties.Resources.resources
+C:\Users\ПК\Desktop\1\VinylShop\Lab8CustomControlLib\obj\Debug\Lab8CustomControlLib.csproj.GenerateResource.cache
+C:\Users\ПК\Desktop\1\VinylShop\Lab8CustomControlLib\obj\Debug\Lab8CustomControlLib.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\1\VinylShop\Lab8CustomControlLib\obj\Debug\Lab8CustomControlLib.dll
+C:\Users\ПК\Desktop\1\VinylShop\Lab8CustomControlLib\obj\Debug\Lab8CustomControlLib.pdb
+D:\Лабы\ООП\LibraryStore\Lab8CustomControlLib\bin\Debug\Lab8CustomControlLib.dll
+D:\Лабы\ООП\LibraryStore\Lab8CustomControlLib\bin\Debug\Lab8CustomControlLib.pdb
+D:\Лабы\ООП\LibraryStore\Lab8CustomControlLib\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Лабы\ООП\LibraryStore\Lab8CustomControlLib\obj\Debug\Lab8CustomControlLib_MarkupCompile.cache
+D:\Лабы\ООП\LibraryStore\Lab8CustomControlLib\obj\Debug\Lab8CustomControlLib_MarkupCompile.lref
+D:\Лабы\ООП\LibraryStore\Lab8CustomControlLib\obj\Debug\Themes\Generic.baml
+D:\Лабы\ООП\LibraryStore\Lab8CustomControlLib\obj\Debug\Lab8CustomControlLib.g.resources
+D:\Лабы\ООП\LibraryStore\Lab8CustomControlLib\obj\Debug\Lab8CustomControlLib.Properties.Resources.resources
+D:\Лабы\ООП\LibraryStore\Lab8CustomControlLib\obj\Debug\Lab8CustomControlLib.csproj.GenerateResource.cache
+D:\Лабы\ООП\LibraryStore\Lab8CustomControlLib\obj\Debug\Lab8CustomControlLib.csproj.CoreCompileInputs.cache
+D:\Лабы\ООП\LibraryStore\Lab8CustomControlLib\obj\Debug\Lab8CustomControlLib.dll
+D:\Лабы\ООП\LibraryStore\Lab8CustomControlLib\obj\Debug\Lab8CustomControlLib.pdb
+D:\Лабы\ООП\LibraryStore\Lab8CustomControlLib\obj\Debug\Lab8CustomControlLib.csprojAssemblyReference.cache

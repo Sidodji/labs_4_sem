@@ -1,0 +1,13 @@
+D:\Лабы\ООП\LibraryStore\MyCustomControl\bin\Debug\netcoreapp3.1\WPFCustomControls.deps.json
+D:\Лабы\ООП\LibraryStore\MyCustomControl\bin\Debug\netcoreapp3.1\WPFCustomControls.dll
+D:\Лабы\ООП\LibraryStore\MyCustomControl\bin\Debug\netcoreapp3.1\WPFCustomControls.pdb
+D:\Лабы\ООП\LibraryStore\MyCustomControl\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+D:\Лабы\ООП\LibraryStore\MyCustomControl\obj\Debug\netcoreapp3.1\WPFCustomControls_MarkupCompile.cache
+D:\Лабы\ООП\LibraryStore\MyCustomControl\obj\Debug\netcoreapp3.1\WPFCustomControls_MarkupCompile.lref
+D:\Лабы\ООП\LibraryStore\MyCustomControl\obj\Debug\netcoreapp3.1\Themes\Generic.baml
+D:\Лабы\ООП\LibraryStore\MyCustomControl\obj\Debug\netcoreapp3.1\WPFCustomControls.g.resources
+D:\Лабы\ООП\LibraryStore\MyCustomControl\obj\Debug\netcoreapp3.1\WPFCustomControls.AssemblyInfoInputs.cache
+D:\Лабы\ООП\LibraryStore\MyCustomControl\obj\Debug\netcoreapp3.1\WPFCustomControls.AssemblyInfo.cs
+D:\Лабы\ООП\LibraryStore\MyCustomControl\obj\Debug\netcoreapp3.1\WPFCustomControls.csproj.CoreCompileInputs.cache
+D:\Лабы\ООП\LibraryStore\MyCustomControl\obj\Debug\netcoreapp3.1\WPFCustomControls.dll
+D:\Лабы\ООП\LibraryStore\MyCustomControl\obj\Debug\netcoreapp3.1\WPFCustomControls.pdb

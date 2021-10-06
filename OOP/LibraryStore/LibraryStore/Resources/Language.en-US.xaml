@@ -1,0 +1,38 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:LibraryStore.Resources"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib">
+    <!--#region MainWindow-->
+    <v:String x:Key="HeaderBook_MW">Welcome to the club buddy!</v:String>
+    <v:String x:Key="Title_MW">Title</v:String>
+    <v:String x:Key="Author_MW">Author</v:String>
+    <v:String x:Key="Jenre_MW">Jenre</v:String>
+    <v:String x:Key="Pages_MW">Pages</v:String>
+    <v:String x:Key="Publisher_MW">Publisher</v:String>
+    <v:String x:Key="Description_MW">Description</v:String>
+    <v:String x:Key="Price_MW">Price</v:String>
+    <v:String x:Key="Picture_MW">Picture</v:String>
+    <v:String x:Key="LoadImage_MW">Load Image</v:String>
+    <v:String x:Key="AddBookInfoButton_MW">Add</v:String>
+    <v:String x:Key="Serialization_MW">Save to JSON</v:String>
+    <v:String x:Key="Desirilization_MW">Load from JSON</v:String>
+    <v:String x:Key="Lab_9_MW">Lab 9</v:String>
+    <v:String x:Key="Help_MW">Help</v:String>
+    <v:String x:Key="File_MW">File</v:String>
+
+    <v:String x:Key="FilterByExpanderHeader_MW">Filter By</v:String>
+    <v:String x:Key="PriceRange_MW">Price Range</v:String>
+    <v:String x:Key="ArtistName_MW">Artist Name</v:String>
+    <v:String x:Key="SearchButton_MW">Search</v:String>
+
+    <v:String x:Key="Details_MW">Details</v:String>
+
+    <v:String x:Key="SaveToJSON_MW">Save to JSON</v:String>
+    <v:String x:Key="LoadFromJSON_MW">Load from JSON</v:String>
+    <!--#endregion-->
+
+    <!--#region RecordsInfo-->
+    <v:String x:Key="EditButton_RI">Edit</v:String>
+    <!--#endregion-->
+    <v:String x:Key="SaveChangesButton_ECR">Save Changes</v:String>
+</ResourceDictionary>

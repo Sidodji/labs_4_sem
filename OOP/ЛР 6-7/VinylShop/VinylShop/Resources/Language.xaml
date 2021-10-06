@@ -1,0 +1,37 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:VinylShop.Resources"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib">
+    <!--#region MainWindow-->
+    <v:String x:Key="AddRecordExpanderHeader_MW">Add Record</v:String>
+    <v:String x:Key="Name_MW">Name</v:String>
+    <v:String x:Key="Artist_MW">Artist</v:String>
+    <v:String x:Key="Jenre_MW">Jenre</v:String>
+    <v:String x:Key="Label_MW">Label</v:String>
+    <v:String x:Key="Country_MW">Country</v:String>
+    <v:String x:Key="Duration_MW">Duration</v:String>
+    <v:String x:Key="Rating_MW">Rating</v:String>
+    <v:String x:Key="Description_MW">Description</v:String>
+    <v:String x:Key="Price_MW">Price</v:String>
+    <v:String x:Key="ReleaseDate_MW">Release Date</v:String>
+    <v:String x:Key="Quantity_MW">Quantity</v:String>
+    <v:String x:Key="Picture_MW">Picture</v:String>
+    <v:String x:Key="LoadImage_MW">Load Image</v:String>
+    <v:String x:Key="AddRecordInfoButton_MW">Add</v:String>
+
+    <v:String x:Key="FilterByExpanderHeader_MW">Filter By</v:String>
+    <v:String x:Key="PriceRange_MW">Price Range</v:String>
+    <v:String x:Key="ArtistName_MW">Artist Name</v:String>
+    <v:String x:Key="SearchButton_MW">Search</v:String>
+    
+    <v:String x:Key="Details_MW">Details</v:String>
+
+    <v:String x:Key="SaveToJSON_MW">Save to JSON</v:String>
+    <v:String x:Key="LoadFromJSON_MW">Load from JSON</v:String>
+    <!--#endregion-->
+
+    <!--#region RecordsInfo-->
+    <v:String x:Key="EditButton_RI">Edit</v:String>
+    <!--#endregion-->
+    <v:String x:Key="SaveChangesButton_ECR">Save Changes</v:String>
+</ResourceDictionary>

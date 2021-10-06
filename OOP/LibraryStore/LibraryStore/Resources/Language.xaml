@@ -1,0 +1,38 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:LibraryStore.Resources"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib">
+    <!--#region MainWindow-->
+    <v:String x:Key="HeaderBook_MW">Добро пожаловать в клуб дружище!</v:String>
+    <v:String x:Key="Title_MW">Название</v:String>
+    <v:String x:Key="Author_MW">Автор</v:String>
+    <v:String x:Key="Jenre_MW">Жанр</v:String>
+    <v:String x:Key="Publisher_MW">Издатель</v:String>
+    <v:String x:Key="Pages_MW">Страниц</v:String>
+    <v:String x:Key="Description_MW">Описание</v:String>
+    <v:String x:Key="Price_MW">Цена</v:String>
+    <v:String x:Key="Picture_MW">Картинка</v:String>
+    <v:String x:Key="LoadImage_MW">Загрузить картинку</v:String>
+    <v:String x:Key="AddBookInfoButton_MW">Добавить</v:String>
+    <v:String x:Key="Serialization_MW">Сохранить в JSON</v:String>
+    <v:String x:Key="Desirilization_MW">Загрузить в JSON</v:String>
+    <v:String x:Key="Lab_9_MW">Лаба 9</v:String>
+    <v:String x:Key="Help_MW">Помощь</v:String>
+    <v:String x:Key="File_MW">Файл</v:String>
+
+    <v:String x:Key="FilterByExpanderHeader_MW">Фильтрация</v:String>
+    <v:String x:Key="PriceRange_MW">Диапазон Цены</v:String>
+    <v:String x:Key="ArtistName_MW">Имя Исполнителя</v:String>
+    <v:String x:Key="SearchButton_MW">Поиск</v:String>
+
+    <v:String x:Key="Details_MW">Подробнее</v:String>
+
+    <v:String x:Key="SaveToJSON_MW">Сохранить в JSON</v:String>
+    <v:String x:Key="LoadFromJSON_MW">Загрузить из JSON</v:String>
+    <!--#endregion-->
+
+    <!--#region RecordsInfo-->
+    <v:String x:Key="EditButton_RI">Изменить</v:String>
+    <!--#endregion-->
+    <v:String x:Key="SaveChangesButton_ECR">Сохранить</v:String>
+</ResourceDictionary>

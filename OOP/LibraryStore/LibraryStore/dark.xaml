@@ -1,0 +1,10 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:LibraryStore"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib">
+
+    <Style x:Key="Scroll" >
+        <Setter Property="ScrollViewer.Background" Value="Brown" />
+        <Setter Property="ScrollViewer.Foreground" Value="Gray" />
+    </Style>
+</ResourceDictionary>

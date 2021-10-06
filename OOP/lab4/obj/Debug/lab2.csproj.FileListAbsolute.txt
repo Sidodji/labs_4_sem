@@ -1,0 +1,155 @@
+C:\Users\alina\Desktop\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\Users\alina\Desktop\lab2\obj\Debug\lab2.Form1.resources
+C:\Users\alina\Desktop\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\alina\Desktop\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Users\alina\Desktop\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\alina\Desktop\lab2\bin\Debug\lab2.exe.config
+C:\Users\alina\Desktop\lab2\bin\Debug\lab2.exe
+C:\Users\alina\Desktop\lab2\bin\Debug\lab2.pdb
+C:\Users\alina\Desktop\lab2\obj\Debug\lab2.exe
+C:\Users\alina\Desktop\lab2\obj\Debug\lab2.pdb
+C:\Users\alina\Desktop\lab2\obj\Debug\lab2.Form2.resources
+C:\Users\alina\Desktop\lab2\obj\Debug\lab2.Form3.resources
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab2\obj\Debug\lab2.Form1.resources
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab2\obj\Debug\lab2.Form2.resources
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab2\obj\Debug\lab2.Form3.resources
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab2\obj\Debug\lab2.Properties.Resources.resources
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab2\obj\Debug\lab2.exe
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab2\obj\Debug\lab2.pdb
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab2\bin\Debug\lab2.exe.config
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab2\bin\Debug\lab2.exe
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab2\bin\Debug\lab2.pdb
+C:\Users\alina\Desktop\lab2\obj\Debug\lab2.Form4.resources
+C:\Users\alina\Desktop\lab2 — копия\bin\Debug\lab2.exe.config
+C:\Users\alina\Desktop\lab2 — копия\bin\Debug\lab2.exe
+C:\Users\alina\Desktop\lab2 — копия\bin\Debug\lab2.pdb
+C:\Users\alina\Desktop\lab2 — копия\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\Users\alina\Desktop\lab2 — копия\obj\Debug\lab2.Form1.resources
+C:\Users\alina\Desktop\lab2 — копия\obj\Debug\lab2.Form2.resources
+C:\Users\alina\Desktop\lab2 — копия\obj\Debug\lab2.Form3.resources
+C:\Users\alina\Desktop\lab2 — копия\obj\Debug\lab2.Form4.resources
+C:\Users\alina\Desktop\lab2 — копия\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\alina\Desktop\lab2 — копия\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Users\alina\Desktop\lab2 — копия\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\alina\Desktop\lab2 — копия\obj\Debug\lab2.exe
+C:\Users\alina\Desktop\lab2 — копия\obj\Debug\lab2.pdb
+C:\Users\alina\Desktop\lab2 — копия (2)\bin\Debug\lab2.exe.config
+C:\Users\alina\Desktop\lab2 — копия (2)\bin\Debug\lab2.exe
+C:\Users\alina\Desktop\lab2 — копия (2)\bin\Debug\lab2.pdb
+C:\Users\alina\Desktop\lab2 — копия (2)\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\Users\alina\Desktop\lab2 — копия (2)\obj\Debug\lab2.Form1.resources
+C:\Users\alina\Desktop\lab2 — копия (2)\obj\Debug\lab2.Form2.resources
+C:\Users\alina\Desktop\lab2 — копия (2)\obj\Debug\lab2.Form3.resources
+C:\Users\alina\Desktop\lab2 — копия (2)\obj\Debug\lab2.Form4.resources
+C:\Users\alina\Desktop\lab2 — копия (2)\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\alina\Desktop\lab2 — копия (2)\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Users\alina\Desktop\lab2 — копия (2)\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\alina\Desktop\lab2 — копия (2)\obj\Debug\lab2.exe
+C:\Users\alina\Desktop\lab2 — копия (2)\obj\Debug\lab2.pdb
+C:\Users\alina\Desktop\lab2 — копия (2) — копия\bin\Debug\lab2.exe.config
+C:\Users\alina\Desktop\lab2 — копия (2) — копия\bin\Debug\lab2.exe
+C:\Users\alina\Desktop\lab2 — копия (2) — копия\bin\Debug\lab2.pdb
+C:\Users\alina\Desktop\lab2 — копия (2) — копия\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\Users\alina\Desktop\lab2 — копия (2) — копия\obj\Debug\lab2.Form1.resources
+C:\Users\alina\Desktop\lab2 — копия (2) — копия\obj\Debug\lab2.Form2.resources
+C:\Users\alina\Desktop\lab2 — копия (2) — копия\obj\Debug\lab2.Form3.resources
+C:\Users\alina\Desktop\lab2 — копия (2) — копия\obj\Debug\lab2.Form4.resources
+C:\Users\alina\Desktop\lab2 — копия (2) — копия\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\alina\Desktop\lab2 — копия (2) — копия\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Users\alina\Desktop\lab2 — копия (2) — копия\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\alina\Desktop\lab2 — копия (2) — копия\obj\Debug\lab2.exe
+C:\Users\alina\Desktop\lab2 — копия (2) — копия\obj\Debug\lab2.pdb
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4\obj\Debug\lab2.csprojAssemblyReference.cache
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4\obj\Debug\lab2.Form1.resources
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4\obj\Debug\lab2.Form2.resources
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4\obj\Debug\lab2.Form3.resources
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4\obj\Debug\lab2.Form4.resources
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4\obj\Debug\lab2.Properties.Resources.resources
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4\obj\Debug\lab2.csproj.GenerateResource.cache
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4\obj\Debug\lab2.exe
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4\obj\Debug\lab2.pdb
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4\bin\Debug\lab2.exe.config
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4\bin\Debug\lab2.exe
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4\bin\Debug\lab2.pdb
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия\bin\Debug\lab2.exe.config
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия\bin\Debug\lab2.exe
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия\bin\Debug\lab2.pdb
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия\obj\Debug\lab2.csprojAssemblyReference.cache
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия\obj\Debug\lab2.Form1.resources
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия\obj\Debug\lab2.Form2.resources
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия\obj\Debug\lab2.Form3.resources
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия\obj\Debug\lab2.Form4.resources
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия\obj\Debug\lab2.Properties.Resources.resources
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия\obj\Debug\lab2.csproj.GenerateResource.cache
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия\obj\Debug\lab2.exe
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия\obj\Debug\lab2.pdb
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия\bin\Debug\lab2.exe.config
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия\bin\Debug\lab2.exe
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия\bin\Debug\lab2.pdb
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия\obj\Debug\lab2.csprojAssemblyReference.cache
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия\obj\Debug\lab2.Form1.resources
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия\obj\Debug\lab2.Form2.resources
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия\obj\Debug\lab2.Form3.resources
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия\obj\Debug\lab2.Form4.resources
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия\obj\Debug\lab2.Properties.Resources.resources
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия\obj\Debug\lab2.csproj.GenerateResource.cache
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия\obj\Debug\lab2.exe
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия\obj\Debug\lab2.pdb
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия — копия\bin\Debug\lab2.exe.config
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия — копия\bin\Debug\lab2.exe
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия — копия\bin\Debug\lab2.pdb
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия — копия\obj\Debug\lab2.csprojAssemblyReference.cache
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия — копия\obj\Debug\lab2.Form1.resources
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия — копия\obj\Debug\lab2.Form2.resources
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия — копия\obj\Debug\lab2.Form3.resources
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия — копия\obj\Debug\lab2.Form4.resources
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия — копия\obj\Debug\lab2.Properties.Resources.resources
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия — копия\obj\Debug\lab2.csproj.GenerateResource.cache
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия — копия\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия — копия\obj\Debug\lab2.exe
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия — копия\obj\Debug\lab2.pdb
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия — копия — копия\bin\Debug\lab2.exe.config
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия — копия — копия\bin\Debug\lab2.exe
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия — копия — копия\bin\Debug\lab2.pdb
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия — копия — копия\obj\Debug\lab2.csprojAssemblyReference.cache
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия — копия — копия\obj\Debug\lab2.Form1.resources
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия — копия — копия\obj\Debug\lab2.Form2.resources
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия — копия — копия\obj\Debug\lab2.Form3.resources
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия — копия — копия\obj\Debug\lab2.Form4.resources
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия — копия — копия\obj\Debug\lab2.Properties.Resources.resources
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия — копия — копия\obj\Debug\lab2.csproj.GenerateResource.cache
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия — копия — копия\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия — копия — копия\obj\Debug\lab2.exe
+D:\ФИТ\2ой курс\2ой семестр\ООП\Лабораторные\lab4 — копия — копия — копия — копия\obj\Debug\lab2.pdb
+D:\УНИВЕР\2 курс\2 семестр\OOP\lab4\bin\Debug\lab2.exe.config
+D:\УНИВЕР\2 курс\2 семестр\OOP\lab4\bin\Debug\lab2.exe
+D:\УНИВЕР\2 курс\2 семестр\OOP\lab4\bin\Debug\lab2.pdb
+D:\УНИВЕР\2 курс\2 семестр\OOP\lab4\obj\Debug\lab2.csprojAssemblyReference.cache
+D:\УНИВЕР\2 курс\2 семестр\OOP\lab4\obj\Debug\lab2.Form1.resources
+D:\УНИВЕР\2 курс\2 семестр\OOP\lab4\obj\Debug\lab2.Form2.resources
+D:\УНИВЕР\2 курс\2 семестр\OOP\lab4\obj\Debug\lab2.Form3.resources
+D:\УНИВЕР\2 курс\2 семестр\OOP\lab4\obj\Debug\lab2.Form4.resources
+D:\УНИВЕР\2 курс\2 семестр\OOP\lab4\obj\Debug\lab2.Properties.Resources.resources
+D:\УНИВЕР\2 курс\2 семестр\OOP\lab4\obj\Debug\lab2.csproj.GenerateResource.cache
+D:\УНИВЕР\2 курс\2 семестр\OOP\lab4\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\УНИВЕР\2 курс\2 семестр\OOP\lab4\obj\Debug\lab2.exe
+D:\УНИВЕР\2 курс\2 семестр\OOP\lab4\obj\Debug\lab2.pdb
+D:\Лабы\ООП\lab4\bin\Debug\lab2.exe.config
+D:\Лабы\ООП\lab4\bin\Debug\lab2.exe
+D:\Лабы\ООП\lab4\bin\Debug\lab2.pdb
+D:\Лабы\ООП\lab4\obj\Debug\lab2.csprojAssemblyReference.cache
+D:\Лабы\ООП\lab4\obj\Debug\lab2.Form1.resources
+D:\Лабы\ООП\lab4\obj\Debug\lab2.Form2.resources
+D:\Лабы\ООП\lab4\obj\Debug\lab2.Form3.resources
+D:\Лабы\ООП\lab4\obj\Debug\lab2.Form4.resources
+D:\Лабы\ООП\lab4\obj\Debug\lab2.Properties.Resources.resources
+D:\Лабы\ООП\lab4\obj\Debug\lab2.csproj.GenerateResource.cache
+D:\Лабы\ООП\lab4\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\Лабы\ООП\lab4\obj\Debug\lab2.exe
+D:\Лабы\ООП\lab4\obj\Debug\lab2.pdb

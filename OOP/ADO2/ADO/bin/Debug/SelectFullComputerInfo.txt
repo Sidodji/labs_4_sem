@@ -1,0 +1,20 @@
+select 
+COMPUTER.id,
+COMPUTER.computer_type,
+COMPUTER.gpu,
+COMPUTER.photo,
+PROCESSOR.designer,
+PROCESSOR.model,
+PROCESSOR.cores,
+PROCESSOR.frequency,
+OZU.ozu_type,
+OZU.size,
+HARDDRIVE.hard_drive_type,
+HARDDRIVE.size
+from COMPUTER 
+	join PROCESSOR on COMPUTER.processor = PROCESSOR.id
+		join OZU on COMPUTER.ozu_key = OZU.id
+			join HARDDRIVE on COMPUTER.hard_drive_key = HARDDRIVE.id
+select * from ALLCOMPUTERS
+
+drop table ALLCOMPUTERS

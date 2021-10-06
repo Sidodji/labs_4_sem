@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="Хранилище READERModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Books">
+          <Key>
+            <PropertyRef Name="isbn" />
+          </Key>
+          <Property Name="isbn" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="title" Type="nvarchar" MaxLength="40" Nullable="false" />
+          <Property Name="author" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="original_language" Type="nvarchar" MaxLength="20" />
+          <Property Name="year_of_release" Type="int" />
+          <Property Name="description" Type="nvarchar" MaxLength="500" />
+          <Property Name="rate" Type="int" />
+          <Property Name="is_custom" Type="bit" />
+          <Property Name="image" Type="varbinary(max)" />
+          <Property Name="ganre" Type="nvarchar" MaxLength="40" />
+        </EntityType>
+        <EntityContainer Name="Хранилище READERModelContainer">
+          <EntitySet Name="Books" EntityType="Self.Books" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="READERModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Books">
+          <Key>
+            <PropertyRef Name="isbn" />
+          </Key>
+          <Property Name="isbn" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="title" Type="String" MaxLength="40" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="author" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="original_language" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+          <Property Name="year_of_release" Type="Int32" />
+          <Property Name="description" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+          <Property Name="rate" Type="Int32" />
+          <Property Name="is_custom" Type="Boolean" />
+          <Property Name="image" Type="Binary" MaxLength="Max" FixedLength="false" />
+          <Property Name="ganre" Type="String" MaxLength="40" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityContainer Name="READEREntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Books" EntityType="Self.Books" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="Хранилище READERModelContainer" CdmEntityContainer="READEREntities">
+          <EntitySetMapping Name="Books">
+            <EntityTypeMapping TypeName="READERModel.Books">
+              <MappingFragment StoreEntitySet="Books">
+                <ScalarProperty Name="isbn" ColumnName="isbn" />
+                <ScalarProperty Name="title" ColumnName="title" />
+                <ScalarProperty Name="author" ColumnName="author" />
+                <ScalarProperty Name="original_language" ColumnName="original_language" />
+                <ScalarProperty Name="year_of_release" ColumnName="year_of_release" />
+                <ScalarProperty Name="description" ColumnName="description" />
+                <ScalarProperty Name="rate" ColumnName="rate" />
+                <ScalarProperty Name="is_custom" ColumnName="is_custom" />
+                <ScalarProperty Name="image" ColumnName="image" />
+                <ScalarProperty Name="ganre" ColumnName="ganre" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Нет" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

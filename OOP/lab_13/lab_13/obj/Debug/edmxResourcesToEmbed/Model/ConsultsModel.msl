@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище lab_13_ConsultationsModelContainer" CdmEntityContainer="lab_13_ConsultationsEntities">
+    <EntitySetMapping Name="Lecturers">
+      <EntityTypeMapping TypeName="lab_13_ConsultationsModel.Lecturer">
+        <MappingFragment StoreEntitySet="Lecturers">
+          <ScalarProperty Name="SNP" ColumnName="SNP" />
+          <ScalarProperty Name="Subject" ColumnName="Subject" />
+          <ScalarProperty Name="ConsultDateTime" ColumnName="ConsultDateTime" />
+          <ScalarProperty Name="StudNum" ColumnName="StudNum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
